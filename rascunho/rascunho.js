@@ -1,0 +1,1 @@
+document.getElementById('body').document_write('Hello World!'); // Error: document_write is not a function
