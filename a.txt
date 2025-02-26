@@ -1,0 +1,22 @@
+Consegui
+js node a.js
+py python a.py
+rb ruby a.rb
+
+Não Consegui ainda
+asm
+c
+cpp
+cs
+dart
+ex
+go
+java
+kt
+lua
+php
+r
+rs
+scala
+swift
+ts
