@@ -29,6 +29,7 @@ def criar_produto():
     conn.commit()
     conn.close()
     print("✅ Produto cadastrado com sucesso!")
+    
 
 # Listar todos os produtos
 def listar_produtos():
